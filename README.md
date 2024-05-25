@@ -3,7 +3,7 @@
 
 # Portfolio Website 🔗
 
-Welcome to my portfolio website! This website is a showcase of my work and skills as a https://amarkumar.netlify.app
+Welcome to my portfolio website! This website is a showcase of my work and skills as a https://amarkumar-portfolio.netlify.app
 .
 
 
